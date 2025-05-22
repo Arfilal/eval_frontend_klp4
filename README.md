@@ -1,5 +1,8 @@
 # Panduan Evaluasi dan Pembuatan Aplikasi Kelas
 
+### https://github.com/kristiandimasadiwicaksono/SI-KRS-Backend
+### link backend kelompok lain
+
 ## 1. Deskripsi Proyek
 Proyek ini terdiri dari dua bagian utama:
 - **Backend**: Dibangun menggunakan CodeIgniter 4, bertanggung jawab untuk menyediakan API RESTful untuk mengelola data kelas (CRUD operations).
